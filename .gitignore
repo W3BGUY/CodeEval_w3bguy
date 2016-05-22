@@ -1,0 +1,11 @@
+# Ignore everything
+*
+.metadata
+
+# But not these files...
+!.gitignore
+!*.js
+!*.txt
+
+# ...even if they are in subdirectories
+!*/
