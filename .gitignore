@@ -6,6 +6,7 @@
 !.gitignore
 !*.js
 !*.txt
+!*.py
 
 # ...even if they are in subdirectories
 !*/
