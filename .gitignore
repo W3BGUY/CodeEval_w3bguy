@@ -7,6 +7,8 @@
 !*.js
 !*.txt
 !*.py
+!*.php
+!*.rs
 
 # ...even if they are in subdirectories
 !*/
